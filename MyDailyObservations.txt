@@ -1,0 +1,2 @@
+1. creating my eclipse project
+2. pasted all the script files and the CDN in AllComponent/allCss.jsp file by using the expression tag <%@include file="AllComponent/allCss.jsp" %>

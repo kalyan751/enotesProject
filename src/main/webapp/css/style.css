@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+.bg-custom {
+	background: #8e24aa;
+}
+
+.navbar .nav-item .nav-link {
+	font-size: 20px;
+	color: white;
+}
+
+.navbar-custom .nav-item:hover .nav-link {
+	background: white;
+	color: black;
+	border-radius: 10px;
+}
+
+.div-color {
+	background-image: linear-gradient(to right top, #e56400, #e78d00, #e2b300, #d8d629, #c8f95a);
+	height:80vh;
+}
