@@ -62,7 +62,11 @@ if (currentUser1 == null) {
 		</div>
 	</div>
 
-	<%@include file="AllComponent/footer.jsp"%>
+	<div class="container-fluid bg-dark pt-3 pb-1 mt-5">
+
+<p class="text-center text-white">Designed and developed by Kalyan Jha</p>
+<p class="text-center text-white">Developed when I was learning about building Web Applications using java Servlet </p>
+</div>
 
 </body>
 </html>

@@ -1,7 +1,7 @@
 <%@page import="com.User.UserDetails"%>
 <nav class="navbar navbar-expand-lg navbar-dark bg-custom navbar-custom">
 	<div class="container-fluid">
-		<a class="navbar-brand" href="#"><i class="fa fa-book"
+		<a class="navbar-brand" href="index.jsp"><i class="fa fa-book"
 			aria-hidden="true"></i> PersonalNotes.com</a>
 		<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
 			data-bs-target="#navbarSupportedContent"
@@ -48,7 +48,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+        <h1 class="modal-title fs-5" id="exampleModalLabel">User details</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">

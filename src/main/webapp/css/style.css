@@ -1,7 +1,8 @@
 @charset "ISO-8859-1";
 
 .bg-custom {
-	background: #8e24aa;
+	
+	background:#1976d2 ;
 }
 
 .navbar .nav-item .nav-link {
@@ -16,6 +17,8 @@
 }
 
 .div-color {
-	background-image: linear-gradient(to right top, #e56400, #e78d00, #e2b300, #d8d629, #c8f95a);
+	/*background-image: linear-gradient(to right top, #e56400, #e78d00, #e2b300, #d8d629, #c8f95a);*/
+	background-image: linear-gradient(to right top, #766bd1, #6461c0, #5156b0, #3f4c9f, #2d428f, #204890, #114e91, #005390, #00699c, #007da1, #00909f, #1da199);
+	/*height:80vh;*/
 	height:80vh;
 }

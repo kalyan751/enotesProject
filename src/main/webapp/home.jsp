@@ -27,7 +27,7 @@ if (currentUser2 == null) {
 		<%@include file="AllComponent/navbar.jsp"%>
 		<div class="card py-5">
 			<div class="card-body text-center">
-				<img alt="" src="img/noteTakingImage.jpg" class="img-fluid mx-auto" style = "width:650px">
+				<img alt="" src="img/noteTakingImage.jpg" class="img-fluid mx-auto" style = "width:550px">
 				<h1>START TAKING YOUR NOTES</h1>
 				<a href = "AddNotes.jsp" class="btn btn-outline-primary">Start Here</a>
 			</div>

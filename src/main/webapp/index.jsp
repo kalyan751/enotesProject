@@ -9,7 +9,7 @@
 .back-image {
 	background: url("img/NoteBookImg2.jpg");
 	width: 100%;
-	height: 80vh;
+	height: 81vh;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -24,7 +24,7 @@
 	<div class="container-fluid back-image">
 
 		<div class="text-center">
-			<h1 class="text-white"><i class="fa fa-book" aria-hidden="true"></i> Welcome To PersonalNotes.com</h1>
+			<h1 class="text-white pt-5"><i class="fa fa-book" aria-hidden="true"></i> Welcome To PersonalNotes.com</h1>
 			<a href="login.jsp" class="btn btn-light"><i class="fa fa-user-circle-o" aria-hidden="true"></i> Login</a> 
 			<a href="register.jsp" class="btn btn-light"><i class="fa fa-user-plus" aria-hidden="true"></i> Register</a>
 		</div>
